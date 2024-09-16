@@ -34,6 +34,13 @@
     /* justify-content: space-between; */
 }
 
+.main-band__sub {
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    display: flex;
+}
+
 .toggle-button {
     width: 2rem;
     background: white;
